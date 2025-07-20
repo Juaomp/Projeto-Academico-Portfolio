@@ -6,20 +6,20 @@
 
 ## 📖 Índice
 
-* [Sobre o Projeto](#sobre-o-projeto)
-* [Funcionalidades](#funcionalidades)
-* [Tecnologias Utilizadas](#tecnologias-utilizadas)
-* [Contato](#contato)
+* [Sobre o Projeto](#user-content-sobre-o-projeto)
+* [Funcionalidades](#user-content-funcionalidades)
+* [Tecnologias Utilizadas](#user-content-tecnologias-utilizadas)
+* [Contato](#user-content-contato)
 
 ---
 
-# 🚀 Sobre o Projeto
+## 🚀 Sobre o Projeto
 
 Este projeto nasceu como um trabalho universitário, com o objetivo de criar um **website single page** que servisse como um portfólio pessoal e site de apresentação. O grande desafio e foco principal foi desenvolver toda a interface utilizando **apenas HTML e CSS puros**, sem o auxílio de frameworks ou bibliotecas, reforçando os fundamentos dessas tecnologias essenciais para o desenvolvimento web.
 
 ---
 
-# ✨ Funcionalidades
+## ✨ Funcionalidades
 
 O site foi desenvolvido para:
 
@@ -28,7 +28,7 @@ O site foi desenvolvido para:
 
 ---
 
-# 🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 Este projeto foi construído com as seguintes tecnologias:
 
@@ -37,7 +37,7 @@ Este projeto foi construído com as seguintes tecnologias:
 
 ---
 
-# 📧 Contato
+## 📧 Contato
 
 Se você tiver alguma dúvida ou quiser se conectar:
 
